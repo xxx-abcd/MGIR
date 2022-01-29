@@ -1,7 +1,7 @@
 # MGIR
 Ensure that all data set files have been unzipped.
 
-- you can use the jupyter notebook in `MGIR\dataprocess\process\eval.ipynb` with:
+- you can use the jupyter notebook in `MGIR\dataprocess\process\eval.ipynb`:
 
 - for Tmall:
 
